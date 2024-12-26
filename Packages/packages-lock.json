@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.tier4.awsim.vehicle": {
+      "version": "https://github.com/Autumn60/AWSIM.git?path=/Assets/AWSIM.Vehicle#exp/packaged_vehicle_component",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e902ff9da92fcdf91e9e874f9ecfce5cd33f9eba"
+    },
     "com.unity.collab-proxy": {
       "version": "1.3.9",
       "depth": 0,
