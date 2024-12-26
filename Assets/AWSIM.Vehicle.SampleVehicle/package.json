@@ -1,0 +1,13 @@
+{
+    "name": "com.autumn60.awsim.vehicle.samplevehicle",
+    "version": "0.1.0",
+    "displayName": "AWSIM.Vehicle.SampleVehicle",
+    "description": "",
+    "unity": "2021.1",
+    "dependencies": {
+      "com.tier4.awsim.vehicle": "0.1.0"
+    },
+    "keywords": [
+        "awsim"
+    ]
+}

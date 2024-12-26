@@ -1,0 +1,16 @@
+{
+    "name": "com.autumn60.awsim.vehicle.samplevehicle",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d3038857c03171ff49e2047ba0265fbb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
